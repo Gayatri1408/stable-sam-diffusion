@@ -3,7 +3,7 @@
 This project combines Meta's **Segment Anything Model (SAM)**, **CLIP embeddings**, and **Stable Diffusion Inpainting** to enable precise and intelligent image editing using natural language prompts.
 
 > **Use case**: Click on an object → Mask it using SAM → Enter a text prompt → Modify the object using Stable Diffusion inpainting guided by your text!
-
+![Stable_Diffusion](https://github.com/user-attachments/assets/c8e370e9-b6cb-4926-b02f-0402a604d9aa)
 ---
 
 ## 🚀 Features
@@ -22,3 +22,4 @@ This project combines Meta's **Segment Anything Model (SAM)**, **CLIP embeddings
 - [Stable Diffusion Inpainting](https://github.com/huggingface/diffusers)
 - [CLIP](https://github.com/openai/CLIP)
 - [Gradio](https://www.gradio.app/) for the UI
+
